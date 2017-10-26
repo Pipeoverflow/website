@@ -17,6 +17,3 @@ Join the world’s largest service pro community.
 > - Happy Pro #419
 
 
-![](http://marzplumbing.kijenga.pro/wp-content/uploads/sites/4/2016/08/plumbing-blog-post.jpg =500x250)
-
-
