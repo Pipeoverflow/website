@@ -19,12 +19,8 @@ Join the world’s largest service pro community.
 
 
 
-### Small image
+### Service Bro Doing Work
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
+![](http://marzplumbing.kijenga.pro/wp-content/uploads/sites/4/2016/08/plumbing-blog-post.jpg)
 
 
