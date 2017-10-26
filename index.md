@@ -12,7 +12,7 @@ Join the world’s largest service pro community.
 
 ### [](#header-3)People Say Great Things
 
-> I can't say enough great things about Pipe Overflow.
+> "I can't say enough great things about Pipe Overflow."
 >
 > - Happy Pro #419
 
