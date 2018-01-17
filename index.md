@@ -22,4 +22,4 @@ Join the world’s largest service pro community.
 ### The #1 place on the web to share your stories and ask questions
 
 
-## [Join the Community](pipeoverflow.com/sign-up)
+## [Join the Community](/sign-up)
