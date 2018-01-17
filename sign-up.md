@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to another page
+# Join the Pipeoverflow Community
 
 Really?? This site was made as a joke. 
 
