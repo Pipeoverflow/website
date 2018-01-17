@@ -19,4 +19,7 @@ Join the world’s largest service pro community.
 ![](http://www.plumberrockville.net/wp-content/uploads/2016/02/plumber-rockville.jpg)
 
 
-![Join the Community](pipeoverflow.com/sign-up)
+### The #1 place on the web to share your stories and ask questions
+
+
+## [Join the Community](pipeoverflow.com/sign-up)
